@@ -1,3 +1,4 @@
+// page 이동을 위한 첫 번째 페이지
 import 'package:flutter/material.dart';
 
 class SecondPage extends StatelessWidget {

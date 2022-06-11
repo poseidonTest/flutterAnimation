@@ -1,3 +1,4 @@
+// page 이동을 위한 두 번째 페이지
 import 'package:flutter/material.dart';
 import 'second_page.dart';
 
